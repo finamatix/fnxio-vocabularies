@@ -8,10 +8,15 @@ Contributions to it are accepted following a review made by EU Vocabularies team
 The Currency authority table is maintained by the Publications Office of the European Union on the EU Vocabularies website.
 
 **Domain:** Finance
+
 **Subdomain:** Assets
+
 **Subject:** Money
+
 **Version:** 20231102
+
 **Status:** Draft
+
 
 > :JPY: 
 >   :priority: 6
