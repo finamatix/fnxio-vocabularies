@@ -10,12 +10,13 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 
 [Currency/finxio_currencies.yaml ](https://github.com/finamatix/fnxio-vocabularies/blob/main/Currency/finxio_currencies.yaml)
 
-**attributes:**:ENTITY:: priority:iso_code:name:full_name:symbol:unicode:hex:html:CSS:subunit:subunit_to_unit:symbol_first:decimal_mark:thousands_separator
+**attributes:**:ENTITY:: priority:4217code:num4217:name:full_name:symbol:unicode:hex:html:CSS:subunit:subunit_to_unit:symbol_first:decimal_mark:thousands_separator
 
 **example:**
 :JPY: 
   :priority: 6
-  :iso_code: JPY
+  :code4217: JPY
+  :num4217: 392
   :name: Yen
   :full_name: "Japanese Yen"
   :symbol: ¥
