@@ -24,6 +24,7 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 >     :thousands_separator: ","
 
 **Currrency Incorporation
+
 |Currency|Status|Priority
 |----|---- | ---- |
 | :Yen|:Active:| :6: |
