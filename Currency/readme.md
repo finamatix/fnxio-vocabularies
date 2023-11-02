@@ -22,3 +22,7 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 >     :symbol_first: true
 >     :decimal_mark: .
 >     :thousands_separator: ","
+
+**Currrency Incorporation
+|Currency|Status|Priority
+|___ | ___ | ___ |
