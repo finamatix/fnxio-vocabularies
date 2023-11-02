@@ -31,7 +31,7 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 
 **Currrency Incorporation**
 
-|Currency|Status|Priority
-|:----|:----:| :----: |
-|US dollar|Active|5|
-|Japanese Yen|Active| 6 |
+|Currency|Status|Priority| Updated|
+|:----|:----:| :----: | :----: |
+|US dollar|Active|5| 2023-11-02 |
+|Japanese Yen|Active| 6 | 2023-11-02|
