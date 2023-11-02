@@ -8,17 +8,17 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 **Version:** 20231102
 **Status:** Draft
 
-> :JPY: 
->   :priority: 6
->   :iso_code: JPY
->   :name: Yen
->   :full_name: "Japanese Yen"
->   :symbol: ¥
->   :unicode_hex: &#xa5
->   :UTF_8: "\xC2\xA5"
->   :html_entity: "&#x00A5;"
->   :subunit: Sen
->   :subunit_to_unit: 100
->   :symbol_first: true
->   :decimal_mark: .
->   :thousands_separator: ","
+>   :JPY: 
+>     :priority: 6
+>     :iso_code: JPY
+>     :name: Yen
+>     :full_name: "Japanese Yen"
+>     :symbol: ¥
+>     :unicode_hex: &#xa5
+>     :UTF_8: "\xC2\xA5"
+>     :html_entity: "&#x00A5;"
+>     :subunit: Sen
+>     :subunit_to_unit: 100
+>     :symbol_first: true
+>     :decimal_mark: .
+>     :thousands_separator: ","
