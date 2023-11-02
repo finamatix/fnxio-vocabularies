@@ -1,0 +1,158 @@
+--- 
+:aud: 
+  :priority: 4
+  :iso_code: AUD
+  :name: Australian Dollar
+  :symbol: $
+  :subunit: Cent
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: $
+  :decimal_mark: .
+  :thousands_separator: ","
+:byr: 
+  :priority: 100
+  :iso_code: BYR
+  :name: Belarusian Ruble
+  :symbol: Br
+  :subunit: Kapyeyka
+  :subunit_to_unit: 100
+  :symbol_first: false
+  :html_entity: ""
+  :decimal_mark: .
+  :thousands_separator: ","
+:cad: 
+  :priority: 5
+  :iso_code: CAD
+  :name: Canadian Dollar
+  :symbol: $
+  :subunit: Cent
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: $
+  :decimal_mark: .
+  :thousands_separator: ","
+:chf: 
+  :priority: 100
+  :iso_code: CHF
+  :name: Swiss Franc
+  :symbol: Fr
+  :subunit: Rappen
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: ""
+  :decimal_mark: .
+  :thousands_separator: ","
+:cny: 
+  :priority: 100
+  :iso_code: CNY
+  :name: Chinese Renminbi Yuan
+  :symbol: "\xC2\xA5"
+  :subunit: Fen
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: "&#x5713;"
+  :decimal_mark: .
+  :thousands_separator: ","
+:eur: 
+  :priority: 2
+  :iso_code: EUR
+  :name: Euro
+  :symbol: "\xE2\x82\xAC"
+  :subunit: Cent
+  :subunit_to_unit: 100
+  :symbol_first: false
+  :html_entity: "&#x20AC;"
+  :decimal_mark: ","
+  :thousands_separator: .
+:inr: 
+  :priority: 100
+  :iso_code: INR
+  :name: Indian Rupee
+  :symbol: "\xE2\x82\xA8"
+  :subunit: Paisa
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: "&#x20A8;"
+  :decimal_mark: .
+  :thousands_separator: ","
+:mnt: 
+  :priority: 100
+  :iso_code: MNT
+  :name: "Mongolian T\xC3\xB6gr\xC3\xB6g"
+  :symbol: "\xE2\x82\xAE"
+  :subunit: "M\xC3\xB6ng\xC3\xB6"
+  :subunit_to_unit: 100
+  :symbol_first: false
+  :html_entity: "&#x20AE;"
+  :decimal_mark: .
+  :thousands_separator: ","
+:rub: 
+  :priority: 100
+  :iso_code: RUB
+  :name: Russian Ruble
+  :symbol: "\xD1\x80."
+  :subunit: Kopek
+  :subunit_to_unit: 100
+  :symbol_first: false
+  :html_entity: "&#x0440;&#x0443;&#x0431;"
+  :decimal_mark: ","
+  :thousands_separator: .
+:sgd: 
+  :priority: 100
+  :iso_code: SGD
+  :name: Singapore Dollar
+  :symbol: $
+  :subunit: Cent
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: $
+  :decimal_mark: .
+  :thousands_separator: ","
+:try: 
+  :priority: 100
+  :iso_code: TRY
+  :name: Turkish New Lira
+  :symbol: YTL
+  :subunit: "New kuru\xC5\x9F"
+  :subunit_to_unit: 100
+  :symbol_first: false
+  :html_entity: ""
+  :decimal_mark: .
+  :thousands_separator: ","
+:usd: 
+  :priority: 1
+  :iso_code: USD
+  :name: United States Dollar
+  :symbol: $
+  :subunit: Cent
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: $
+  :decimal_mark: .
+  :thousands_separator: ","
+:yen: 
+  :priority: 100
+  :iso_code: JPY
+  :name: Japanese Yen
+  :symbol: "\xC2\xA5"
+  :subunit: Sen
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :html_entity: "&#x00A5;"
+  :decimal_mark: .
+  :thousands_separator: ","
+:JPY: 
+  :priority: 6
+  :iso_code: JPY
+  :name: Yen
+  :full_name: "Japanese Yen"
+  :symbol: ¥
+  :unicode_hex: &#xa5
+  :UTF_8: "\xC2\xA5"
+  :html_entity: "&#x00A5;"
+  :subunit: Sen
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :decimal_mark: .
+  :thousands_separator: ","
