@@ -8,6 +8,8 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 **Version:** 20231102
 **Status:** Draft
 
+Currency/finxio_currencies.yaml 
+
 >   :JPY: 
 >     :priority: 6
 >     :iso_code: JPY
