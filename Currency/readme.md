@@ -25,4 +25,5 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 
 **Currrency Incorporation
 |Currency|Status|Priority
-|___ | ___ | ___ |
+|----|---- | ---- |
+| Yen|Active| 6
