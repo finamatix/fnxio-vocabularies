@@ -11,23 +11,25 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 [Currency/finxio_currencies.yaml ](https://github.com/finamatix/fnxio-vocabularies/blob/main/Currency/finxio_currencies.yaml)
 
 **example:**
->   :JPY: 
->     :priority: 6
->     :iso_code: JPY
->     :name: Yen
->     :full_name: "Japanese Yen"
->     :symbol: ¥
->     :unicode_hex: &#xa5
->     :UTF_8: "\xC2\xA5"
->     :html_entity: "&#x00A5;"
->     :subunit: Sen
->     :subunit_to_unit: 100
->     :symbol_first: true
->     :decimal_mark: .
->     :thousands_separator: ","
+:JPY: 
+  :priority: 6
+  :iso_code: JPY
+  :name: Yen
+  :full_name: "Japanese Yen"
+  :symbol: ¥
+  :unicode: U+000A5
+  :hex: &#xa5
+  :html: &#165
+  :CSS: \00A5
+  :subunit: Sen
+  :subunit_to_unit: 100
+  :symbol_first: true
+  :decimal_mark: "."
+  :thousands_separator: ","
 
 **Currrency Incorporation**
 
 |Currency|Status|Priority
 |:----|:----:| :----: |
+|US dollar|Active|5|
 |Japanese Yen|Active| 6 |
