@@ -1,4 +1,4 @@
-# Currency Authority Table
+# Authority Table: Currency
 The Currency authority table is a controlled vocabulary that lists concepts associated with currencies and currency subunits. The concepts included are correlated with the ISO 4217 international standard.
 The Currency authority table is updated based on the stakeholders’ needs. The Currency authority table is maintained by the Finamatix data team.
 
