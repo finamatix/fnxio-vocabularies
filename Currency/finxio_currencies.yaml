@@ -122,7 +122,8 @@
   :thousands_separator: ","
 :USD: 
   :priority: 5
-  :iso_code: USD
+  :code4217: USD
+  :num4217: 840
   :name: "US dollar"
   :full_name: "United States Dollar"
   :symbol: $
@@ -137,7 +138,8 @@
   :thousands_separator: ","
 :JPY: 
   :priority: 6
-  :iso_code: JPY
+  :code4217: JPY
+  :num4217: 392
   :name: Yen
   :full_name: "Japanese Yen"
   :symbol: ¥
