@@ -27,4 +27,4 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 
 |Currency|Status|Priority
 |:----|:----:| :----: |
-|Yen|Active| 6 |
+|Japanese Yen|Active| 6 |
