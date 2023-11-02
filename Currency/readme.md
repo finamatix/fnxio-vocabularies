@@ -23,8 +23,8 @@ The Currency authority table is updated based on the stakeholders’ needs. The 
 >     :decimal_mark: .
 >     :thousands_separator: ","
 
-**Currrency Incorporation
+**Currrency Incorporation**
 
 |Currency|Status|Priority
-|----|---- | ---- |
-| :Yen|:Active:| :6: |
+|:----|:----:| :----: |
+|Yen|Active| 6 |
