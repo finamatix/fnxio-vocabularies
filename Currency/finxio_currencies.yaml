@@ -131,28 +131,18 @@
   :html_entity: $
   :decimal_mark: .
   :thousands_separator: ","
-:yen: 
-  :priority: 100
-  :iso_code: JPY
-  :name: Japanese Yen
-  :symbol: "\xC2\xA5"
-  :subunit: Sen
-  :subunit_to_unit: 100
-  :symbol_first: true
-  :html_entity: "&#x00A5;"
-  :decimal_mark: .
-  :thousands_separator: ","
+
 :JPY: 
   :priority: 6
   :iso_code: JPY
   :name: Yen
   :full_name: "Japanese Yen"
   :symbol: ¥
-  :unicode_hex: &#xa5
+  :unicode_hex: "&#xa5"
   :UTF_8: "\xC2\xA5"
-  :html_entity: "&#x00A5;"
+  :html_entity: "&#x00A5"
   :subunit: Sen
   :subunit_to_unit: 100
   :symbol_first: true
-  :decimal_mark: .
+  :decimal_mark: "."
   :thousands_separator: ","
