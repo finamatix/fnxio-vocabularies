@@ -120,27 +120,31 @@
   :html_entity: ""
   :decimal_mark: .
   :thousands_separator: ","
-:usd: 
-  :priority: 1
+:USD: 
+  :priority: 5
   :iso_code: USD
-  :name: United States Dollar
+  :name: "US dollar"
+  :full_name: "United States Dollar"
   :symbol: $
+  :unicode: U+00024
+  :hex: &#x24
+  :html: "&#36"
+  :CSS: \0024
   :subunit: Cent
   :subunit_to_unit: 100
   :symbol_first: true
-  :html_entity: $
-  :decimal_mark: .
+  :decimal_mark: "."
   :thousands_separator: ","
-
 :JPY: 
   :priority: 6
   :iso_code: JPY
   :name: Yen
   :full_name: "Japanese Yen"
   :symbol: ¥
-  :unicode_hex: "&#xa5"
-  :UTF_8: "\xC2\xA5"
-  :html_entity: "&#x00A5"
+  :unicode: U+000A5
+  :hex: &#xa5
+  :html: &#165
+  :CSS: \00A5
   :subunit: Sen
   :subunit_to_unit: 100
   :symbol_first: true
