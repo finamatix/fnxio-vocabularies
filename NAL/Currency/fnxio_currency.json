@@ -1,0 +1,52 @@
+{
+    "USD":{ 
+        "locale": { 
+            "CIS": {
+                "priority": 2},
+            "EU": {
+                "priority": 2},
+            "INTL": {
+                    "priority": 1},      
+        },
+    "iso4217code": "USD",
+    "iso4217num": "840",
+    "iso4217name": "United States Dollar",
+    "name": "US dollar",
+    "symbol": "$",
+    "unicode": "U+00024",
+    "hex": "&#x24",
+    "html": "&#36",
+    "CSS": "0024",
+    "symbol_first": true,
+    "subunit": "Cent",
+    "subunit_to_unit": 100,
+    "decimal_mark": ".",
+    "thousands_separator": ","
+    },
+
+    "JPY": { 
+        "locale": { 
+            "CIS": {
+                "priority": 10},
+            "EU": {
+                "priority": 3},
+            "INTL": {
+                    "priority": 3},      
+        },
+    "iso4217code": "JPY",
+    "iso4217num": "392",
+    "iso4217name": "Japanese Yen",
+    "name": "Yen",
+    "symbol": "¥",
+    "unicode": "U+000A5",
+    "hex": "&#xa5",
+    "html": "&#165",
+    "CSS": "00A5",
+    "symbol_first": true,
+    "subunit": "Sen",
+    "subunit_to_unit": 100,
+    "decimal_mark": ".",
+    "thousands_separator": ","
+    }
+
+}
