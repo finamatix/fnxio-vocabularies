@@ -122,8 +122,8 @@
   :thousands_separator: ","
 :USD: 
   :priority: 5
-  :code4217: USD
-  :num4217: 840
+  :4217code: USD
+  :4217num: 840
   :name: "US dollar"
   :full_name: "United States Dollar"
   :symbol: $
@@ -131,15 +131,15 @@
   :hex: &#x24
   :html: "&#36"
   :CSS: \0024
+  :symbol_first: true
   :subunit: Cent
   :subunit_to_unit: 100
-  :symbol_first: true
   :decimal_mark: "."
   :thousands_separator: ","
 :JPY: 
   :priority: 6
-  :code4217: JPY
-  :num4217: 392
+  :4217code: JPY
+  :4217num: 392
   :name: Yen
   :full_name: "Japanese Yen"
   :symbol: ¥
@@ -147,8 +147,8 @@
   :hex: &#xa5
   :html: &#165
   :CSS: \00A5
+  :symbol_first: true
   :subunit: Sen
   :subunit_to_unit: 100
-  :symbol_first: true
   :decimal_mark: "."
   :thousands_separator: ","
