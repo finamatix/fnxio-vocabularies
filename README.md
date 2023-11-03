@@ -1,6 +1,5 @@
 # fnxio-vocabularies
 This repository contains list of controlled vocabularies being universal but used as an a FNXIO *controlled* input both in production and in progress (with prototypes).
-
 Vocaublaries are divided by an Operation:
 
 - **Authority tables** - {Named Authority Lists/NALs] to harmonise and standardise the codes and associated labels used in various environments (web platforms, systems and applications) and in facilitating data exchanges involved in decision-making process and not only.
