@@ -1,5 +1,5 @@
 # fnxio-vocabularies
-This repository contains list of controlled vocabularies both in production and in progress (with prototypes).
+This repository contains list of controlled vocabularies being universal but used as an a FNXIO controlled input both in production and in progress (with prototypes).
 
 Vocaublaries are divided by a use into:
 
