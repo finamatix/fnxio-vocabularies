@@ -1,0 +1,68 @@
+{
+    "Russian Federation": {
+        "locale": { 
+            "CIS": {
+                "priority": "1"},
+            "EU": {
+                "priority": "40"},
+            "INTL": {
+                    "priority": "10"},      
+        },
+        "name":"Russian Federation",
+        "alpha-2":"RU",
+        "alpha-3":"RUS",
+        "country-code":"643",
+        "iso_3166-2":"ISO 3166-2:RU",
+        "region":"Europe",
+        "sub-region":"Eastern Europe",
+        "intermediate-region":"",
+        "region-code":"150",
+        "sub-region-code":"151",
+        "intermediate-region-code":""
+    },
+
+    "United States": {
+        "locale": { 
+            "CIS": {
+                "priority": "40"},
+            "EU": {
+                "priority": "31"},
+            "INTL": {
+                    "priority": "1"},      
+        },
+    "name":"United States of America",
+    "iso3166-1-alpha-2":"US",
+    "iso3166-1-alpha-3":"USA",
+    "iso3166-1-country-code":"840",
+    "iso3166-2": "ISO 3166-2:US",
+    "region":"Americas",
+    "sub-region":"Northern America",
+    "intermediate-region":"",
+    "region-code":"019",
+    "sub-region-code":"021",
+    "intermediate-region-code":""
+},
+
+"Japan": {
+    "locale": { 
+        "CIS": {
+            "priority": "41"},
+        "EU": {
+            "priority": "32"},
+        "INTL": {
+                "priority": "4"},      
+    },
+    "name":"Japan",
+    "iso3166-1-alpha-2":"JP",
+    "iso3166-1-alpha-3":"JPN",
+    "iso3166-1-country-code":"392",
+    "iso3166-2":"ISO 3166-2:JP",
+    "region":"Asia",
+    "sub-region":"Eastern Asia",
+    "intermediate-region":"",
+    "region-code":"142",
+    "sub-region-code":"030",
+    "intermediate-region-code":""
+}
+
+}

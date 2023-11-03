@@ -1,0 +1,63 @@
+{
+    "Americas": {
+        "locale": { 
+            "CIS": {
+                "priority": 3},
+            "EU": {
+                "priority": 2},
+            "INTL": {
+                    "priority": 1},      
+        },
+        "region":"Americas",
+        "region-code":"019",
+        "subregion": {
+            "sub-region":"Northern America",
+            "sub-region-code":"021"
+        },
+        "intermediate":  {
+            "intermediate-region":"",
+            "intermediate-region-code":""
+        }
+    },
+    "Asia": {
+        "locale": { 
+            "CIS": {
+                "priority": 2},
+            "EU": {
+                "priority": 3},
+            "INTL": {
+                    "priority": 2},      
+        },
+        "region":"Asia",
+        "region-code":"142",
+        "subregion": {
+            "sub-region":"Eastern Asia",
+            "sub-region-code":"030"
+        },
+        "intermediate": {
+            "intermediate-region":"",
+            "intermediate-region-code":"" 
+        }
+    },
+    "Europe": {
+        "locale": { 
+            "CIS": {
+                "priority": 1},
+            "EU": {
+                "priority": 1},
+            "INTL": {
+                    "priority": 3},      
+        },
+        "region":"Europe",
+        "region-code":"150",
+        "subregion": {
+            "sub-region":"Eastern Europe",
+            "sub-region-code":"151"
+        },
+        "intermediate": {
+            "intermediate-region":"",
+            "intermediate-region-code":"" 
+        }
+    }
+
+    }
