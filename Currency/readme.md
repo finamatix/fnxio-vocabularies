@@ -9,7 +9,9 @@
 The Currency NAL is a controlled vocabulary that lists entities and properties associated with currencies and currency subunits. 
 [Currency/finxio_currencies.yaml ](https://github.com/finamatix/fnxio-vocabularies/blob/main/Currency/finxio_currencies.yaml)
 
-The list and properties included are correlated with the ISO 4217 international standard: **attributes:**:ENTITY:: priority:4217code:num4217:name:full_name:symbol:unicode:hex:html:CSS:subunit:subunit_to_unit:symbol_first:decimal_mark:thousands_separator
+The list and properties included are correlated with the ISO 4217 international standard: 
+
+**attributes:**:ENTITY:: priority:4217code:num4217:name:full_name:symbol:unicode:hex:html:CSS:subunit:subunit_to_unit:symbol_first:decimal_mark:thousands_separator
 
 **example:**
 :JPY: 
