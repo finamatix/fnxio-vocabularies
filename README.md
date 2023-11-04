@@ -3,6 +3,8 @@ This repository contains list of controlled vocabularies being universal but use
 Vocaublaries are divided by an Operation:
 
 - **Authority tables** - {Named Authority Lists/NALs] to harmonise and standardise the codes and associated labels used in various environments (web platforms, systems and applications) and in facilitating data exchanges involved in decision-making process and not only.
+
+currencies:   https://github.com/finamatix/fnxio-vocabularies/tree/main/NAL/Currency
   
 - **Codelists** - key-value pairs which is **ordered, mutable, and do not allow duplicates
   
