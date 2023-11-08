@@ -8,7 +8,7 @@ Vocaublaries are divided by an Operation:
   
   regions: https://github.com/finamatix/fnxio-vocabularies/tree/main/NAL/Regions
   
-- **Codelists (CL)** - key-value pairs which is **ordered, mutable, and do not allow duplicates
+- **Codelists (CL)** - key-value pairs which are **ordered, mutable, and do not allow duplicates**
   
 - **Thesaurus** - controlled and structured vocabularies with concepts represented by labels with a hierarchical structure of broader and narrower terms. A thesaurus *may* represent a multilingual equivalent of this approach, with the same concept in each of the supported languages represented by a single preferred label.
   
