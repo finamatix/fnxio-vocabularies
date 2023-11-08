@@ -7,7 +7,8 @@
 **Status:** Draft
 
 The Currency NAL is a controlled vocabulary that lists entities and properties associated with currencies and currency subunits. 
-[Currency/finxio_currencies.yaml ](https://github.com/finamatix/fnxio-vocabularies/blob/main/Currency/finxio_currencies.yaml)
+
+https://github.com/finamatix/fnxio-vocabularies/blob/main/NAL/Currency/fnxio_currency.json
 
 The list and properties included are correlated with the ISO 4217 international standard: 
 
