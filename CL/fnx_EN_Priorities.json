@@ -1,0 +1,14 @@
+{
+    "CLtype":     "staticList",
+    "CLname":     "fnx_priorityCode",
+    "CLcode":    "fnx000002",
+    "CLlang":     "EN",
+    "CLsource":   "fnx-internal",
+    "extensible":  true,
+    "CLdesc":   "ordered list of priorities",
+    "codelist":
+    {"code": "fnx001", "order": 1, "codeName": "critical", "description": "decisive importance"},
+    {"code": "fnx002", "order": 2, "codeName": "high", "description": "requires resources to be made available"},
+    {"code": "fnx003", "order": 3, "codeName": "medium", "description": "normal operation priority"},
+    {"code": "fnx004", "order": 4, "codeName": "low", "description": "to be completed when resources are available"}
+}
