@@ -5,7 +5,7 @@
     "CLlang":     "EN",
     "CLsource":   "fnx-internal",
     "extensible":  true,
-    "CLdesc":   "catalog (EN) of code lists",
+    "CLdesc":   "catalog of EN code lists",
     "codelist":
         {"code": "fnxEN000002", "order": 1, "codeName": "iso_maintenanceFrequency", "description": "frequency with which modifications and deletions are made to the data after it is first produced"},
         {"code": "fnxEN000003", "order": 3, "codeName": "fnx_priorityCode", "description": "ordered list of priorities"},
