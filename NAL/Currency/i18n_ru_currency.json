@@ -1,7 +1,7 @@
 {
   "script": "Cyrillic",
 
-    "840": {
+    "USD": {
       "unit": [
         { "label": "доллар США", "gender.grammar": "", "number.grammar": "S" },
         { "label": "долларов США", "gender.grammar": "", "number.grammar": "P" }
