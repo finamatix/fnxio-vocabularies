@@ -1,7 +1,7 @@
 {
     
     "Germany": {
-        "locale-cd": "de-i18n",
+        "locale-cd": "de",
         "locale": { 
             "CIS": {
                 "priority": "1"
@@ -25,7 +25,7 @@
     },
 
     "Greece": {
-        "locale-cd": "gr-i18n",
+        "locale-cd": "gr",
         "locale": { 
             "CIS": {
                 "priority": "1"
@@ -49,7 +49,7 @@
     },
 
     "Russian Federation": {
-        "locale-cd": "ru-i18n",
+        "locale-cd": "ru",
         "locale": { 
             "CIS": {
                 "priority": "1"},
@@ -72,7 +72,7 @@
     },
     
     "Spain": {
-        "locale-cd": "es-i18n",
+        "locale-cd": "es",
         "locale": { 
             "CIS": {
                 "priority": "1"
@@ -97,7 +97,7 @@
 
 
     "United States": {
-        "locale-cd": "en-i18n",
+        "locale-cd": "en",
         "locale": { 
             "CIS": {
                 "priority": "40"},
