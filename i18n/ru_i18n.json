@@ -1,6 +1,6 @@
 {
   "script": "Cyrillic",
-  "currency": {
+
     "840": {
       "unit": [
         { "label": "доллар США", "gender.grammar": "", "number.grammar": "S" },
@@ -12,4 +12,3 @@
       ]
     }
   }
-}

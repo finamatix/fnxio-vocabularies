@@ -1,6 +1,6 @@
 {
   "script": "",
-  "currency": {
+
     "392": {
       "unit": [
         { "label": "Yen", "gender.grammar": "M", "number.grammar": "" }
@@ -46,6 +46,3 @@
     }
   
   }
-
-
-}

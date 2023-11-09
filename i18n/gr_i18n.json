@@ -1,6 +1,6 @@
 {
   "script": "Cyrillic",
-  "currency": {
+
     "840": {
       "unit": [
         { "label": "Δολάριο Ηνωμένων Πολιτειών", "gender.grammar": "", "number.grammar": "" },
@@ -10,4 +10,3 @@
       ]
     }
   }
-}
