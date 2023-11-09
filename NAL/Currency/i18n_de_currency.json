@@ -6,8 +6,8 @@
         { "label": "Yen", "gender.grammar": "M", "number.grammar": "" }
       ],
       "subunit": [
-        { "label": "Kopeke", "gender.grammar": "M", "number.grammar": "S" },
-        { "label": "Kopeke", "gender.grammar": "", "number.grammar": "P" }
+        { "label": "Sen", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Sen", "gender.grammar": "", "number.grammar": "P" }
       ]
     },
     
@@ -18,7 +18,7 @@
       ],
 
       "subunit": [
-        { "label": "Sen", "gender.grammar": "M", "number.grammar": "" }
+        { "label": "Kopeke", "gender.grammar": "M", "number.grammar": "" }
       ]
     },
 
