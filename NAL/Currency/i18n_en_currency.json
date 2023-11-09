@@ -1,7 +1,7 @@
 {
   "script": "",
 
-    "840": {
+    "USD": {
       "unit": [
         { "label": "US dollar", "gender.grammar": "", "number.grammar": "S" },
         { "label": "US dollars", "gender.grammar": "", "number.grammar": "P" }
