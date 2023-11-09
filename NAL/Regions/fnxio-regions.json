@@ -10,10 +10,9 @@
         },
         "region":"Americas",
         "region-code":"019",
-        "subregion": {
-            "sub-region":"Northern America",
-            "sub-region-code":"021"
-        },
+        "subregion": [
+            {"sub-region":"Northern America","sub-region-code":"021"}
+        ],
         "intermediate":  {
             "intermediate-region":"",
             "intermediate-region-code":""
@@ -30,10 +29,9 @@
         },
         "region":"Asia",
         "region-code":"142",
-        "subregion": {
-            "sub-region":"Eastern Asia",
-            "sub-region-code":"030"
-        },
+        "subregion": [
+            {"sub-region":"Eastern Asia","sub-region-code":"030"}
+        ],
         "intermediate": {
             "intermediate-region":"",
             "intermediate-region-code":"" 
@@ -50,10 +48,10 @@
         },
         "region":"Europe",
         "region-code":"150",
-        "subregion": {
-            "sub-region":"Eastern Europe",
-            "sub-region-code":"151"
-        },
+        "subregion": [
+            {"sub-region":"Eastern Europe","sub-region-code":"151"},
+            {"sub-region":"Southern Europe","sub-region-code":"039"}
+        ],
         "intermediate": {
             "intermediate-region":"",
             "intermediate-region-code":"" 
