@@ -1,0 +1,15 @@
+{
+  "script": "",
+  "currency": {
+    "840": {
+      "unit": [
+        { "label": "US dollar", "gender.grammar": "", "number.grammar": "S" },
+        { "label": "US dollars", "gender.grammar": "", "number.grammar": "P" }
+      ],
+      "subunit": [
+        { "label": "Cent", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Cents", "gender.grammar": "", "number.grammar": "P" }
+      ]
+    }
+  }
+}

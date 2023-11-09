@@ -1,0 +1,51 @@
+{
+  "script": "",
+  "currency": {
+    "392": {
+      "unit": [
+        { "label": "Yen", "gender.grammar": "M", "number.grammar": "" }
+      ],
+      "subunit": [
+        { "label": "Kopeke", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Kopeke", "gender.grammar": "", "number.grammar": "P" }
+      ]
+    },
+    
+    "643": {
+      "unit": [
+        { "label": "Russischer Rubel", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Russische Rubeln", "gender.grammar": "", "number.grammar": "P" }
+      ],
+
+      "subunit": [
+        { "label": "Sen", "gender.grammar": "M", "number.grammar": "" }
+      ]
+    },
+
+    "840": {
+      "unit": [
+        { "label": "US-Dollar", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "US-Dollaren", "gender.grammar": "", "number.grammar": "P" }
+      ],
+      "subunit": [
+        { "label": "Cent", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Cents", "gender.grammar": "", "number.grammar": "P" }
+      ]
+    },
+
+    "978": {
+      "unit": [
+        { "label": "Euro", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Euros", "gender.grammar": "", "number.grammar": "P" }
+      ],
+
+      "subunit": [
+        { "label": "Cent", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Cents", "gender.grammar": "", "number.grammar": "P" }
+      ]
+    }
+  
+  }
+
+
+}

@@ -1,0 +1,15 @@
+{
+  "script": "Cyrillic",
+  "currency": {
+    "840": {
+      "unit": [
+        { "label": "доллар США", "gender.grammar": "", "number.grammar": "S" },
+        { "label": "долларов США", "gender.grammar": "", "number.grammar": "P" }
+      ],
+      "subunit": [
+        { "label": "Цент", "gender.grammar": "M", "number.grammar": "S" },
+        { "label": "Центов", "gender.grammar": "", "number.grammar": "P" }
+      ]
+    }
+  }
+}
