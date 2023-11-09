@@ -1,7 +1,7 @@
 {
   "script": "",
 
-    "392": {
+    "YEN": {
       "unit": [
         { "label": "Yen", "gender.grammar": "M", "number.grammar": "" }
       ],
@@ -11,7 +11,7 @@
       ]
     },
     
-    "643": {
+    "6RUB": {
       "unit": [
         { "label": "Russischer Rubel", "gender.grammar": "M", "number.grammar": "S" },
         { "label": "Russische Rubeln", "gender.grammar": "", "number.grammar": "P" }
@@ -22,7 +22,7 @@
       ]
     },
 
-    "840": {
+    "USD": {
       "unit": [
         { "label": "US-Dollar", "gender.grammar": "M", "number.grammar": "S" },
         { "label": "US-Dollaren", "gender.grammar": "", "number.grammar": "P" }
@@ -33,7 +33,7 @@
       ]
     },
 
-    "978": {
+    "EUR": {
       "unit": [
         { "label": "Euro", "gender.grammar": "M", "number.grammar": "S" },
         { "label": "Euros", "gender.grammar": "", "number.grammar": "P" }
