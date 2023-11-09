@@ -1,5 +1,55 @@
 {
+    
+    "Germany": {
+        "locale-cd": "de-i18n",
+        "locale": { 
+            "CIS": {
+                "priority": "1"
+            },
+            "EU": {
+                "priority": "40"},
+            "INTL": {
+                    "priority": "10"},      
+        },
+        "name":"Germany",
+        "alpha-2":"DE",
+        "alpha-3":"DEU",
+        "country-code":"276",
+        "iso_3166-2":"ISO 3166-2:DE",
+        "region":"Europe",
+        "sub-region":"Western Europe",
+        "intermediate-region":"",
+        "region-code":"150",
+        "sub-region-code":"155",
+        "intermediate-region-code":""
+    },
+
+    "Greece": {
+        "locale-cd": "gr-i18n",
+        "locale": { 
+            "CIS": {
+                "priority": "1"
+            },
+            "EU": {
+                "priority": "40"},
+            "INTL": {
+                    "priority": "10"},      
+        },
+        "name":"Greece",
+        "alpha-2":"GR",
+        "alpha-3":"GRC",
+        "country-code":"300",
+        "iso_3166-2":"ISO 3166-2:GR",
+        "region":"Europe",
+        "sub-region":"Southern Europe",
+        "intermediate-region":"",
+        "region-code":"150",
+        "sub-region-code":"039",
+        "intermediate-region-code":""
+    },
+
     "Russian Federation": {
+        "locale-cd": "ru-i18n",
         "locale": { 
             "CIS": {
                 "priority": "1"},
@@ -20,8 +70,34 @@
         "sub-region-code":"151",
         "intermediate-region-code":""
     },
+    
+    "Spain": {
+        "locale-cd": "es-i18n",
+        "locale": { 
+            "CIS": {
+                "priority": "1"
+            },
+            "EU": {
+                "priority": "40"},
+            "INTL": {
+                    "priority": "10"},      
+        },
+        "name":"Spain",
+        "alpha-2":"ES",
+        "alpha-3":"ESP",
+        "country-code":"724",
+        "iso_3166-2":"ISO 3166-2:ES",
+        "region":"Europe",
+        "sub-region":"Southern Europe",
+        "intermediate-region":"",
+        "region-code":"150",
+        "sub-region-code":"039",
+        "intermediate-region-code":""
+    },
+
 
     "United States": {
+        "locale-cd": "en-i18n",
         "locale": { 
             "CIS": {
                 "priority": "40"},
@@ -44,6 +120,7 @@
 },
 
 "Japan": {
+    "locale-cd": "",
     "locale": { 
         "CIS": {
             "priority": "41"},
