@@ -1,4 +1,54 @@
 {
+    "EUR":{ 
+        "locale": { 
+            "CIS": {
+                "priority": 2},
+            "EU": {
+                "priority": 2},
+            "INTL": {
+                    "priority": 1},      
+        },
+    "iso4217code": "EUR",
+    "iso4217num": "978",
+    "iso4217name": "Euro",
+    "name": "Euro",
+    "symbol": "€",
+    "unicode": "U+020AC",
+    "hex": "&#x20AC",
+    "html": "&#8364",
+    "CSS": "20AC",
+    "symbol_first": false,
+    "subunit": "Cent",
+    "subunit_to_unit": 100,
+    "decimal_mark": ",",
+    "thousands_separator": "."
+    },
+
+    "RUB":{ 
+        "locale": { 
+            "CIS": {
+                "priority": 1},
+            "EU": {
+                "priority": 20},
+            "INTL": {
+                    "priority": 20},      
+        },
+    "iso4217code": "RUB",
+    "iso4217num": "643",
+    "iso4217name": "Russian Ruble",
+    "name": "Ruble",
+    "symbol": "₽",
+    "unicode": "U+020BD",
+    "hex": "&#x20BD",
+    "html": "&#8381",
+    "CSS": "20BD",
+    "symbol_first": false,
+    "subunit": "Kopek",
+    "subunit_to_unit": 100,
+    "decimal_mark": ",",
+    "thousands_separator": "."
+    },
+
     "USD":{ 
         "locale": { 
             "CIS": {
