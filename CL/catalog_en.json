@@ -11,6 +11,6 @@
         {"code": "fnxEN000002", "order": 1, "codeName": "iso_eventFrequency", "description": "frequency with which modifications and deletions are made to the data after it is first produced"},
         {"code": "fnxEN000003", "order": 3, "codeName": "fnx_priorityCode", "description": "ordered list of priorities"},
         {"code": "fnxEN000009", "order": 9, "codeName": "fnx_appProfile", "description": "application profiles that can be used with online resources"},
-        {"code": "fnxDOen1000001", "order": 101, "codeName": "iso_dateTypeCode", "description": "identification of when a given event occurred with DO"}
+        {"code": "fnxenDO1000001", "order": 101, "codeName": "iso_dateTypeCode", "description": "identification of when a given event occurred with DO"}
     ]
     }
