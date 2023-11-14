@@ -1,6 +1,6 @@
 {
     "CLtype":     "staticList",
-    "CLname":     "fnx_ENCLcatalog",
+    "CLname":     "fnx_enCLCatalog",
     "CLcode":    "fnx000001",
     "CLlang":     "EN",
     "CLsource":   "fnx-internal",
