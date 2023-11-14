@@ -1,0 +1,19 @@
+{
+    "CLtype":     "staticList",
+    "CLname":     "iso_timeFrequency",
+    "CLcode":    "fnxEN000001",
+    "CLlang":     "EN",
+    "CLsource":   "ISO",
+    "extensible":  true,
+    "CLdesc":   "time frequency with which additions, modifications and deletions are made to the data after Date of Origination",
+    "codelist": [
+        {"code": "iso001", "order": 1, "codeName": "daily", "description": "each day"},
+        {"code": "iso002", "order": 2, "codeName": "weekly", "description": "on a weekly basis"},
+        {"code": "iso003", "order": 3, "codeName": "fortnightly", "description": "every two weeks"},
+        {"code": "iso004", "order": 4, "codeName": "monthly", "description": "each month"},
+        {"code": "iso005", "order": 5, "codeName": "quarterly", "description": "every three months"},
+        {"code": "iso006", "order": 6, "codeName": "biannually", "description": "twice each year"},
+        {"code": "iso007", "order": 7, "codeName": "annually", "description": "every year"},
+        {"code": "fnx015", "order": 8, "codeName": "biennially", "description": "every 2 years"}
+    ]
+}
