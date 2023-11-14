@@ -1,12 +1,12 @@
 {
     "CLtype":     "staticList",
-    "CLname":     "iso_maintenanceFrequency",
+    "CLname":     "iso_Frequency",
     "CLcode":    "fnxEN000002",
     "CLlang":     "EN",
     "CLsource":   "ISO",
     "extensible":  true,
     "CLdesc":   "frequency with which modifications and deletions are made to the data after it is first produced",
-    "codelist":
+    "codelist":[
         {"code": "iso001", "order": 1, "codeName": "continual", "description": "data is repeatedly and frequently updated"},
         {"code": "iso002", "order": 2, "codeName": "daily", "description": "data is updated each day"},
         {"code": "iso003", "order": 3, "codeName": "weekly", "description": "data is updated on a weekly basis"},
@@ -22,4 +22,5 @@
         {"code": "fnx013", "order": 11, "codeName": "periodic", "description": "resource is updated at regular intervals"},
         {"code": "fnx014", "order": 6, "codeName": "semimonthly", "description": "resource updated twice monthly"},
         {"code": "fnx015", "order": 10, "codeName": "biennially", "description": "resource is updated every 2 years"}
+    ]
 }
