@@ -6,8 +6,9 @@
     "CLsource":   "fnx-internal",
     "extensible":  true,
     "CLdesc":   "identification of when a given event occurred with DO",
-    "codelist":
+    "codelist": [
     {"code": "iso001", "order": 1, "codeName": "creation", "description": "date identifies when the resource was brought into existence"},
     {"code": "iso002", "order": 2, "codeName": "publication", "description": "date identifies when the resource was issued"},
     {"code": "iso004", "order": 3, "codeName": "revision", "description": "date identifies when the resource was examined or re-examined and improved or amended"}
+    ]
 }
