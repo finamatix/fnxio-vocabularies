@@ -6,7 +6,7 @@
     "CLsource":   "fnx-internal",
     "extensible":  true,
     "CLdesc":   "application profiles that can be used with online resources",
-    "codelist":
+    "codelist": [
         {"code": "fnx001", "order": 1, "codeName": "http://opengis.net/spec/wms", "description": "OGC Web Map Service (WMS)"},
         {"code": "fnx002", "order": 2, "codeName": "http://opengis.net/spec/wfs", "description": "OGC Web Feature Service (WFS)"},
         {"code": "fnx003", "order": 3, "codeName": "http://opengis.net/spec/wcs", "description": "OGC Web Coverage Service (WCS)"},
@@ -16,4 +16,5 @@
         {"code": "fnx007", "order": 7, "codeName": "http://www.geoplatform.gov/spec/esri-map-rest", "description": "Esri REST Map Service"},
         {"code": "fnx008", "order": 8, "codeName": "http://www.geoplatform.gov/spec/esri-image-rest", "description": "Esri REST Image Service"},
         {"code": "fnx009", "order": 9, "codeName": "http://www.geoplatform.gov/spec/esri-feature-rest", "description": "Esri REST Feature Service"}
+    ]
 }
